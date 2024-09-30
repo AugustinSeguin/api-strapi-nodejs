@@ -1,0 +1,9 @@
+@apiToken=eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlNDg0NTBiZTFjZTc5YTFjMTM4MjEyZmFjMWMwZjNjOCIsIm5iZiI6MTcyNzY4NDA0Ny44NTg1NDgsInN1YiI6IjYzMzBhNTYwOGQyZjhkMDA3YjAxYTUyMiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.wYQelN7EiDQ-1k6nx4SEZw-xsasJHt9zn91Aci1u1Bc
+
+# GET https://api.themoviedb.org/3/trending/movie/day?language=en-US
+# Authorization: Bearer {{apiToken}}
+
+
+GET https://api.themoviedb.org/3/trending/person/day?language=en-US
+Authorization: Bearer {{apiToken}}
+
